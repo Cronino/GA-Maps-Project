@@ -1,4 +1,6 @@
 
+#look into DASH as well!
+
 import plotly.express as px
 import pandas
 df = px.data.gapminder().query("year==2007")
